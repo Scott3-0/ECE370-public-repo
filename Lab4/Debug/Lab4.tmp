@@ -1,0 +1,65 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\Debug\Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>41</LINE></INIT>
+  <MAIN><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>55</LINE></MAIN>
+  <OperandA><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>548</LINE></OperandA>
+  <ADD16_OP1><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>588</LINE></ADD16_OP1>
+  <OperandB><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>550</LINE></OperandB>
+  <ADD16_OP2><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>590</LINE></ADD16_OP2>
+  <ADD16><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>198</LINE></ADD16>
+  <OperandC><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>554</LINE></OperandC>
+  <SUB16_OP1><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>599</LINE></SUB16_OP1>
+  <OperandD><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>556</LINE></OperandD>
+  <SUB16_OP2><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>601</LINE></SUB16_OP2>
+  <SUB16><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>236</LINE></SUB16>
+  <OperandE1><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>560</LINE></OperandE1>
+  <MUL24_OP1><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>610</LINE></MUL24_OP1>
+  <OperandF1><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>564</LINE></OperandF1>
+  <MUL24_OP2><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>612</LINE></MUL24_OP2>
+  <MUL24><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>268</LINE></MUL24>
+  <OperandG><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>570</LINE></OperandG>
+  <OperandH><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>572</LINE></OperandH>
+  <OperandI><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>574</LINE></OperandI>
+  <COMPOUND><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>386</LINE></COMPOUND>
+  <DONE><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>185</LINE></DONE>
+  <ADD16_Result><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>594</LINE></ADD16_Result>
+  <SUB16_Result><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>605</LINE></SUB16_Result>
+  <MUL24_Result><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>616</LINE></MUL24_Result>
+  <MUL24_OLOOP><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>304</LINE></MUL24_OLOOP>
+  <MUL24_ILOOP><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>313</LINE></MUL24_ILOOP>
+  <MUL24_NCARRY><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>344</LINE></MUL24_NCARRY>
+  <MUL24_CARRY_LOOP><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>332</LINE></MUL24_CARRY_LOOP>
+  <MUL24_CARRY_NZOV><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>336</LINE></MUL24_CARRY_NZOV>
+  <MUL16><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>456</LINE></MUL16>
+  <addrB><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>583</LINE></addrB>
+  <LAddrP><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>584</LINE></LAddrP>
+  <MUL16_OLOOP><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>483</LINE></MUL16_OLOOP>
+  <addrA><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>582</LINE></addrA>
+  <MUL16_ILOOP><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>490</LINE></MUL16_ILOOP>
+  <FUNC><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>534</LINE></FUNC>
+  <OperandE2><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>562</LINE></OperandE2>
+  <OperandF2><FILE>C:\Users\bremm\Desktop\ECE370\ECE370-repo\Lab4\Lab4\ece375-L4_skeleton.asm</FILE><LINE>566</LINE></OperandF2>
+ </LABELS>
+</ASSEMBLER_INFO>
