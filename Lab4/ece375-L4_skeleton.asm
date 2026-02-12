@@ -1,7 +1,7 @@
 ;***********************************************************
 ;*	This is the skeleton file for Lab 4 of ECE 375
 ;*
-;*	 Author: Scott Bremmer
+;*	 Authors: Scott Bremmer & Noam Yaffe
 ;*	   Date: Feb 13, 2026
 ;*
 ;***********************************************************
