@@ -1,8 +1,8 @@
 ;***********************************************************
 ;*	This is the skeleton file for Lab 5 of ECE 375
 ;*
-;*	 Author: Enter your name
-;*	   Date: Enter Date
+;*	 Authors: Noam Yaffe, Scott Bremmer
+;*	   Date: 2/20/2026
 ;*
 ;***********************************************************
 
