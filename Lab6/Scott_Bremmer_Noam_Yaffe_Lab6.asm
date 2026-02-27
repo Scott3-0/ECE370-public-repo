@@ -2,7 +2,7 @@
 ;*
 ;*	This is the skeleton file for Lab 6 of ECE 375
 ;*
-;*	 Author: Scott Bremmer
+;*	 Author: Scott Bremmer, Noam Yaffe
 ;*	   Date: Feb 26, 2026
 ;*
 ;*	Desc: Assembly program that controls TekBot speed via
